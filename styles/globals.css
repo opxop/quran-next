@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Uthmanic';
+  font-style: normal;
+  font-display: optional;
+  src: url(/fonts/UthmanicHafs1Ver16.ttf) format('truetype');
+}
